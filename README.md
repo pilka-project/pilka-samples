@@ -7,9 +7,13 @@
 ...
 
 # Examples
-| Before        | After         |
-|:-------------:|:-------------:|
-| image1        | image2        |
+| Before                                          | After                                        |
+|:-----------------------------------------------:|:--------------------------------------------:|
+| ![Before](/assets/images/1/before.jpg "Before") | ![After](/assets/images/1/after.jpg "After") |
+| ![Before](/assets/images/2/before.jpg "Before") | ![After](/assets/images/2/after.jpg "After") |
+| ![Before](/assets/images/3/before.jpg "Before") | ![After](/assets/images/3/after.jpg "After") |
+| ![Before](/assets/images/4/before.jpg "Before") | ![After](/assets/images/4/after.jpg "After") |
+| ![Before](/assets/images/5/before.jpg "Before") | ![After](/assets/images/5/after.jpg "After") |
 
 # Link
 There is a link to our website where you can try on a virtual manicure: **<http://pilka-project.com>**.
