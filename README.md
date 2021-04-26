@@ -7,7 +7,9 @@
 ...
 
 # Examples
-...
+| Before        | After         |
+|:-------------:|:-------------:|
+| image1        | image2        |
 
 # Link
 There is a link to our website where you can try on a virtual manicure: **<http://pilka-project.com>**.
