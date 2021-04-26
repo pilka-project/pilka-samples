@@ -16,9 +16,9 @@
 | ![Before](/assets/images/5/before.jpg "Before") | ![After](/assets/images/5/after.jpg "After") |
 
 # Link
-There is a link to our website where you can try on a virtual manicure: **<http://pilka-project.com>**.
+There is a link to our website where you can try on a virtual manicure: **<https://pilka-project.com>**.
 
 # Contacts
 - [Instagram](https://www.instagram.com/pilka_project/)
 - [YouTube](https://www.youtube.com/channel/UCmmsrrrWf33pf17qiYBbN0Q)
-- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=pilka.proj@gmail.com)
+- [E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=pilka.proj@gmail.com)
