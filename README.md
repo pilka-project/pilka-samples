@@ -10,7 +10,7 @@
 ...
 
 # Link
-There is a link to our website where you can try on a virtual manicure: <http://pilka-project.com>.
+There is a link to our website where you can try on a virtual manicure: **<http://pilka-project.com>**.
 
 # Contacts
 - [Instagram](https://www.instagram.com/pilka_project/)
